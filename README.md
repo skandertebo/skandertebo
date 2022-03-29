@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @skandertebo
-- 👀 I’m interested in C++ and Game design
-- 🌱 I’m currently learning C++ 
-- 💞️ I’m looking to collaborate on Game development
+- 👀 I’m interested in C++ , Game design and web development
+- 🌱 I’m currently learning Web development and Unreal engine. 
+- 💞️ I’m looking to collaborate on web or game development
 - 📫 How to reach me skander.tebourbi@insat.ucar.tn
 
 <!---
